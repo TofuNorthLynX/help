@@ -65,3 +65,7 @@
     ЗагрузкаПартнеровНаСервере(ТабДок, ПутьКФайлу);
 
 КонецПроцедуры
+```
+
+![image](https://github.com/user-attachments/assets/ef77068a-1ecf-4765-8735-abb9b90e487c)
+
