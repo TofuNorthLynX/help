@@ -1,1 +1,7 @@
 # help
+![image](https://github.com/user-attachments/assets/be50fab5-ac09-4468-b450-0ed000ad04a8)
+![image](https://github.com/user-attachments/assets/1031cf6b-f94b-4b12-9776-8f5128a02aa3)
+
+```
+Про
+```
